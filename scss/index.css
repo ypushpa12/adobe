@@ -21,6 +21,10 @@ body {
   color: #F7F5E6;
 }
 
+b {
+  display: none;
+}
+
 .mainNav {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -792,6 +796,9 @@ body {
     margin-left: 14rem;
     margin-top: 0rem;
     padding-bottom: 28rem;
+  }
+  .b {
+    display: none;
   }
   /* secondary banner*/
   .container1 {

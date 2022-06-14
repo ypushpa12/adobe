@@ -1,7 +1,7 @@
 body {
     background: #EEF3F4;
     opacity: 1;
-    width: 1336px;
+     width: 1336px;
     font-family: proxima-nova, sans-serif;
 }
 
@@ -12,6 +12,7 @@ body {
     background: #A67744;
 }
 
+
 .banner-text {
     padding: 20px;
     top: 10px;
@@ -20,7 +21,9 @@ body {
     font: normal normal medium 16px/20px Proxima Nova;
     color: #F7F5E6;
 }
-
+b{
+    display: none;
+}
 
 .mainNav {
     display: flex;
@@ -766,7 +769,7 @@ body {
 .foot2 a {
     color: #FFFFFF;
     padding: 30px;
-    margin-left: 86px;
+        margin-left: 86px;
 }
 
 .foot2 {
@@ -801,6 +804,10 @@ body {
         margin-top: 0rem;
         padding-bottom: 28rem;
     }
+    .b{
+        display: none;
+    }
+   
 
     /* secondary banner*/
     .container1 {
